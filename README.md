@@ -1,4 +1,4 @@
-# learning-management-system
+# Learning Management System
 
 A Learning Management System, made using Java with NetBeans. 
 
